@@ -1,0 +1,38 @@
+#body_main_page{
+    background-color: #222831;
+    color: #EEEEEE;
+}
+#tipago{
+    background-color: #00ADB5;
+    color: #393E46;
+}
+#img_header{
+    border-radius: 30px;
+}
+#music_name{
+    border-radius: 7px;
+    width: 300px;
+    margin-right: -500px;
+    color: #393E46;
+}
+#button_start{
+    border-radius: 360px;
+    background-color: #222831;
+    border: #222831;
+    width: 200px;
+    height: 200px;
+    background-image: url("Image_music_icon.jpg");
+    margin-top: 300px;
+}
+#but_div{
+    background-image: url("band_background.png");
+    color: #393E46;
+}
+#music_searcher{
+    background-color: #00ADB5;
+    margin-left: 500px;
+}
+#s_s_b{
+    background-color: #222831;
+    color: #EEEEEE;
+}
