@@ -7,3 +7,7 @@ function search(){
         window.location = "find_song_page.html";
     }
 }
+function stop_listening(){
+    window.alert("Click on ok to proceed to next page");
+    window.location = "find_song_page.html";
+}
